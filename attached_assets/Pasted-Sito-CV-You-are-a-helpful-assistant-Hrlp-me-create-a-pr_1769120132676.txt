@@ -1,0 +1,71 @@
+Sito CV
+You are a helpful assistant.
+
+Hrlp me create a prompt for replit to vibe code my personal website to includr in my cv.
+
+I work in tech, the website should be a static website, with a section that I can edit via json or other simple config to show my homelab setup. It should look modern and interactive, but semi minimalistic.
+
+Ricerca su Internet
+
+1. Why does my Replit deployment work in Webview but fail to load on …
+
+https://www.bing.com/ck/a?!&&p=b645eb03bb74f70ce90e315b62ce1869dab47cda2c346cc7d060067cda68804dJmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzkyMzUzNjkvd2h5LWRvZXMtbXktcmVwbGl0LWRlcGxveW1lbnQtd29yay1pbi13ZWJ2aWV3LWJ1dC1mYWlsLXRvLWxvYWQtb24tdGhlLXByb2R1Y3Rpb24&ntb=1
+
+2. Google and Replit expand partnership in push to bring vibe coding to more companies
+
+https://www.businessinsider.com/google-replit-expand-partnership-push-expand-vibe-coding-companies-2025-12
+
+3. Export Replit project to own hosting - Stack Overflow
+
+https://www.bing.com/ck/a?!&&p=79914dd10b688cd13976b3f4aaaff66e6626e506d856ba19477d9be762e78bd9JmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzk1MzA3NDQvZXhwb3J0LXJlcGxpdC1wcm9qZWN0LXRvLW93bi1ob3N0aW5n&ntb=1
+
+4. Campus Partners with Replit to Launch Vibe Coding 101
+
+https://finance.yahoo.com/news/campus-partners-replit-launch-vibe-130000242.html
+
+5. python - How to install PyNput on Replit - Stack Overflow
+
+https://www.bing.com/ck/a?!&&p=0b8d9a54fe3bd9a82bd040e68c9c09bcc3199d32bfd57b4635cb3d56f0a63551JmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzkzNzU3NzQvaG93LXRvLWluc3RhbGwtcHlucHV0LW9uLXJlcGxpdA&ntb=1
+
+6. After coding catastrophe, Replit says its new AI agent checks its own work - here's how to try it
+
+https://www.zdnet.com/article/after-coding-catastrophe-replit-says-its-new-ai-agent-checks-its-own-work-heres-how-to-try-it/
+
+7. authentication - Getting error - "Failed to authenticate with the ...
+
+https://www.bing.com/ck/a?!&&p=993a85d7e2a36cfb5caf6d300101027cafbb37ea6ef021322057d94f4144ddfeJmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzY3NjA4ODYvZ2V0dGluZy1lcnJvci1mYWlsZWQtdG8tYXV0aGVudGljYXRlLXdpdGgtdGhlLXJlbW90ZS1wbGVhc2UtZW5zdXJlLXRoYXQtcmVwbA&ntb=1
+
+8. replit - How to upload images to repl.it - Stack Overflow
+
+https://www.bing.com/ck/a?!&&p=fde09eae2a881563536c0f2747df6e9a623363c39d8500cb3e95d2e99f192e55JmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNDkzOTY0OTEvaG93LXRvLXVwbG9hZC1pbWFnZXMtdG8tcmVwbC1pdA&ntb=1
+
+9. How to install Linux packages in Replit - Stack Overflow
+
+https://www.bing.com/ck/a?!&&p=581cb1444c50b7b4e311dd9108e837dc165da89ae1e121bfa178827a57958cbaJmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzM2ODQyMTcvaG93LXRvLWluc3RhbGwtbGludXgtcGFja2FnZXMtaW4tcmVwbGl0&ntb=1
+
+10. Is there a way to import Replit INTO GitHub? - Stack Overflow
+
+https://www.bing.com/ck/a?!&&p=caf5c57b5a324b1aafc649d3026ee3dd0b769ddde2cc9d5cd30879ca09c605a4JmltdHM9MTc2OTA0MDAwMA&ptn=3&ver=2&hsh=4&fclid=18496295-0732-64c3-0115-7439067e65fe&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNzU2NzkxMDMvaXMtdGhlcmUtYS13YXktdG8taW1wb3J0LXJlcGxpdC1pbnRvLWdpdGh1Yg&ntb=1
+
+To leverage Replit’s "vibe coding" capabilities—where you describe your vision and let the AI Agent handle the architecture, styling, and logic—you need a prompt that balances high-level aesthetic direction with specific technical requirements.
+
+Since you are a tech professional, the "vibe" should be sophisticated, performant, and easily maintainable. Below is a comprehensive prompt and a guide on how to use it within the Replit environment.
+
+The "Vibe Coding" Master Prompt
+Copy and paste the following into the Replit Agent (or the Chat interface) to begin:
+
+"I want to build a modern, professional personal portfolio website to include in my CV. I am a tech professional, so the 'vibe' should be 'Developer Minimalist'—think clean typography, ample whitespace, a dark/light mode toggle, and subtle interactive elements (like smooth transitions or hover effects).
+
+Technical Requirements:
+
+Architecture: Create a static website using Vite, React, and Tailwind CSS.
+Data-Driven Homelab Section: Create a homelab.json file in the root. The website must fetch data from this JSON file to populate a 'Homelab' section. Each entry should include: Name, Hardware, Software/OS, and a brief description. This allows me to update my lab setup by simply editing the JSON.
+Sections Needed:
+A hero header with my name and a short bio.
+An 'Experience' timeline.
+A 'Projects' grid.
+The 'Homelab' interactive grid (driven by the JSON file).
+A 'Contact' footer with links to GitHub and LinkedIn.
+Design Style: Use a monochromatic color palette with a single accent color (e.g., Electric Blue or Emerald Green). Ensure it is fully responsive and looks great on mobile.
+Interactivity: Use Framer Motion for subtle 'fade-in' animations as the user scrolls.
+Please set up the file structure, the JSON configuration, and the main components. Start by showing me the initial layout
