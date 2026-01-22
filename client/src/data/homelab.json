@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Proxmox Cluster",
+    "hardware": "3x Lenovo Tiny M720q",
+    "software": "Proxmox VE 8.1",
+    "description": "High-availability cluster running critical infrastructure and experimental VMs."
+  },
+  {
+    "id": "2",
+    "name": "Media Server",
+    "hardware": "Custom Build (i5-12400, 64GB RAM)",
+    "software": "Unraid, Plex, *arr stack",
+    "description": "Automated media aggregation and streaming server with 40TB storage pool."
+  },
+  {
+    "id": "3",
+    "name": "Network Core",
+    "hardware": "UniFi Dream Machine Pro",
+    "software": "UniFi OS",
+    "description": "Main gateway handling VLANs, IDS/IPS, and Site-to-Site VPNs."
+  },
+  {
+    "id": "4",
+    "name": "Home Assistant",
+    "hardware": "Raspberry Pi 4 (8GB)",
+    "software": "Home Assistant OS",
+    "description": "Central automation hub integrating Zigbee, Z-Wave, and WiFi IoT devices."
+  },
+  {
+    "id": "5",
+    "name": "Kubernetes Lab",
+    "hardware": "4x Raspberry Pi 5",
+    "software": "K3s, ArgoCD",
+    "description": "Learning cluster for GitOps workflows and container orchestration."
+  },
+  {
+    "id": "6",
+    "name": "Storage Node",
+    "hardware": "Synology DS920+",
+    "software": "DSM 7.2",
+    "description": "Primary backup target and shared NFS/SMB storage for the network."
+  }
+]
