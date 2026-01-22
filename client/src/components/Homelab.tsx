@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./src/components/ui/card";
+import { Badge } from "./src/components/ui/badge";
 import { Server, Cpu, Network, Database } from "lucide-react";
-import homelabData from "@/data/homelab.json";
+import homelabData from "./src/data/homelab.json";
 
 // Type definition for our JSON data
 type HomelabItem = {

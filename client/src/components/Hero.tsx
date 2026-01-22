@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Github, Linkedin, Terminal } from "lucide-react";
-import { Button } from "@/components/ui/button";
+import { Button } from "./src/components/ui/button";
 
 export function Hero() {
   return (

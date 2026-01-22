@@ -1,9 +1,9 @@
-import { Navigation } from "@/components/Navigation";
-import { Hero } from "@/components/Hero";
-import { Experience } from "@/components/Experience";
-import { Projects } from "@/components/Projects";
-import { Homelab } from "@/components/Homelab";
-import { Footer } from "@/components/Footer";
+import { Navigation } from "./src/components/Navigation";
+import { Hero } from "./src/components/Hero";
+import { Experience } from "./src/components/Experience";
+import { Projects } from "./src/components/Projects";
+import { Homelab } from "./src/components/Homelab";
+import { Footer } from "./src/components/Footer";
 
 export default function Home() {
   return (

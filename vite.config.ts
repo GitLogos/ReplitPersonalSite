@@ -35,7 +35,7 @@ export default defineConfig({
       plugins: [],
     },
   },
-  root: path.resolve(import.meta.dirname, "client"),
+  root: path.resolve(import.meta.dirname),
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,

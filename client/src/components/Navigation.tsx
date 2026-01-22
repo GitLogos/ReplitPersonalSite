@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
-import { ThemeToggle } from "@/components/ThemeToggle";
+import { ThemeToggle } from "./src/components/ThemeToggle";
 import { Menu, X } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
+import { Button } from "./src/components/ui/button";
+import { cn } from "./src/lib/utils";
 
 const navItems = [
   { name: "About", href: "#" },
